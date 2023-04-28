@@ -2,9 +2,7 @@ Count-Saver
 
 -  JavaScript - DOM manipulation.
 
-= Count number Button.
+-  Count number button.
 
-- Save count button.
-- 
-and save the numbr you want.
-built with
+-  Save count button.
+
