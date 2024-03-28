@@ -4,5 +4,5 @@ Count-Saver
 
   Count number button.
 
--  Save count button.
+Save count button.
 
