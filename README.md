@@ -4,5 +4,5 @@ JavaScript - DOM manipulation.
 
   Count number button
 
-Save count button
+Save count button.
 
