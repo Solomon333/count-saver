@@ -4,7 +4,7 @@ JavaScript -
 
 DOM manipulation.
 
-  Count number button.
+Count number button.
 
 Save count button.
 
