@@ -1,6 +1,7 @@
 Count-Saver  -
 
-JavaScript - DOM manipulation.
+JavaScript -
+DOM manipulation.
 
   Count number button.
 
