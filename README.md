@@ -2,7 +2,7 @@ Count-Saver  -
 
 JavaScript -
 
-DOM manipulation.
+DOM manipulation
 
 Count number button
 
